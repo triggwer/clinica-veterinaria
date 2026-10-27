@@ -4,6 +4,22 @@ Trabalho de final da matéria de Engenharia de Software. [2° Semestre/2026]
 ### Prototipo
 Prototipo no Figma: [Aqui](https://www.figma.com/design/0kAb3nbGc9SY4zAAa7lrjq/Clinica-Veterinaria?t=4Qsj4DI84pijXLV3-1)
 
+### Informações adicionais
+Para componentização de estilos que se repetem eu coloquei no arquivo [css/global.css](https://github.com/triggwer/clinica-veterinaria/blob/main/css/global.css), o restante fica em um arquivo específico para página.
+```
+clinica-veterinaria/
+├── .github/
+├── README.md
+├── requisitos.md
+├── pages/
+├── imagens/
+├── scripts/
+└── css/
+    ├── global.css
+    └── index.css
+```
+
+
 ## Diagramas UML
 
 ### Diagrama de caso de uso:
